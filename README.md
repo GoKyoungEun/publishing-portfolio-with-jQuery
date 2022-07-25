@@ -17,7 +17,7 @@
 
 파일명 : input.html
 
-<img src="./jQuery/images/2.jpg">
+<img src="./images/2.jpg">
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 
 파일명 : jquery1.html
 
-<img src="./jQuery/images/3.gif">
+<img src="./images/3.gif">
 
 <br>
 <br>
@@ -39,7 +39,7 @@
 
 파일명 : tabmenu2.html
 
-<img src="./jQuery/images/4.gif">
+<img src="./images/4.gif">
 
 <br>
 <br>
@@ -50,7 +50,7 @@
 
 파일명 : jquery2.html
 
-<img src="./jQuery/images/5.gif">
+<img src="./images/5.gif">
 
 <br>
 <br>
@@ -61,7 +61,7 @@
 
 파일명 : jquery3.html
 
-<img src="./jQuery/images/6.gif">
+<img src="./images/6.gif">
 
 <br>
 <br>
@@ -72,7 +72,7 @@
 
 파일명 : jquery4.html
 
-<img src="./jQuery/images/7.gif">
+<img src="./images/7.gif">
 
 <br>
 <br>
@@ -84,4 +84,4 @@
 
 파일명 : jquery5.html
 
-<img src="../jQuery/images/8.gif">
+<img src="../images/8.gif">
