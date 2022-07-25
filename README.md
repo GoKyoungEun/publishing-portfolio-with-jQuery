@@ -82,6 +82,6 @@
 <a href="http://gaeng0.dothome.co.kr/publishing%20portfolio3/jquery5.html" target="_blank">오디오 없는 예제보기</a><br>
 <a href="http://gaeng0.dothome.co.kr/publishing%20portfolio3/jquery5-1.html" target="_blank">오디오 있는 예제보기</a>
 
-파일명 : jquery5.html
+파일명 : jquery5.html, jquery5-1.html
 
 <img src="./images/8.gif">
