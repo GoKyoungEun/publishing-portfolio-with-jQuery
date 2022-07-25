@@ -6,7 +6,7 @@
 
 파일명 : tabmenu.html
 
-<img src="./jQuery/images/1.gif">
+<img src="../jQuery/images/1.gif">
 
 <br>
 <br>
@@ -84,4 +84,4 @@
 
 파일명 : jquery5.html
 
-<img src="./jQuery/images/8.gif">
+<img src="../jQuery/images/8.gif">
