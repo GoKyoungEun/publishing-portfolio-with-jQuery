@@ -1,0 +1,46 @@
+/* Google Web Font */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500&display=swap');
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5em;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+.container {
+  text-align: center;
+}
+.container h1 {
+  border-bottom: 1px solid #aaa;
+  padding: 15px;
+}
+.login {
+  border: 1px solid #222;
+  padding: 30px;
+}
+.login h2 {}
+.login input[type=text],
+.login button {
+  padding: 10px;
+  outline: none;
+}
+.login input[type=text] {
+  border: 1px solid #aaa;
+}
+.login input[type=text]:focus::placeholder {
+  visibility: hidden;
+}
+.login button {
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
