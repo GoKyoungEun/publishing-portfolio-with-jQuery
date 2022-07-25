@@ -79,8 +79,9 @@
 
 ### 어코디언 콘텐츠 슬라이드
 
-<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio3/jquery4.html" target="_blank">예제보기</a>
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio3/jquery5.html" target="_blank">오디오 없는 예제보기</a>
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio3/jquery5-1.html" target="_blank">오디오 있는 예제보기</a>
 
-파일명 : jquery4.html
+파일명 : jquery5.html
 
-<img src="./jQuery/images/7.gif">
+<img src="./jQuery/images/8.gif">
